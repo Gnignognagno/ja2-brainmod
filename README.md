@@ -2,7 +2,6 @@
 
 Basically, it is AIMNAS mod tuned up to have more realistic game experience.
 I had no idea on how to call this modding work, so I named it BRAINMOD what stands for "Basic Realism Adjustments Is Not a MOD". All TableData files were revisited to adopt the AIMNAS to Original maps.
-Executable files are included.
 
 #### Contents
 Key features are:
@@ -28,5 +27,5 @@ Key features are:
 1. Download files from this repo.
 2. Copy the files into your game directory, overwrite JA2.ini on prompt. You can just add/override the following line in JA2.ini, if you want to keep your copy:
    VFS_CONFIG_INI = vfs_config.JA2_BRAINMOD.ini
-3. Unpack JA2.zip to have the newest available executable (JA2.exe); it also includes major modifications of Improved Interrupt System (IIS) to get rid of odd interrupts and ninja-tanks.
+
 Enjoy!
